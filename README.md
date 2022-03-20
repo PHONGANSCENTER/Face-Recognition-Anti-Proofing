@@ -2,7 +2,6 @@
 # Silent-Face-Anti-Spoofing 
 
 This project is Silent-Face-Anti-Spoofing belongs to [minivision technology](https://www.minivision.cn/). You can scan the QR code below to get APK and install it on Android side to experience the effect of real time living detection(silent face anti-spoofing detection).   
-<img src="https://github.com/minivision-ai/Silent-Face-Anti-Spoofing/blob/master/images/静默活体APK.jpeg" width="200" height="200" align=center />  
 
 ## Introduction
 
@@ -104,8 +103,3 @@ python train.py --device_ids 0  --patch_info your_patch
  ```    
 ## Reference 
 - Detector [RetinaFace](https://github.com/deepinsight/insightface/tree/master/RetinaFace)  
-
-For this project, in order to facilitate the technical exchange of developers, we created QQ group: 1121178835, welcome to join.  
-
-In addition to the open-source silent living detection algorithm, Minivision technology also has a number of self-developed algorithms and SDK related to face recognition and human body recognition. Interested individual developers or enterprise developers can visit our website: [Mini-AI Open Platform](https://ai.minivision.cn/)
-Welcome to contact us.
